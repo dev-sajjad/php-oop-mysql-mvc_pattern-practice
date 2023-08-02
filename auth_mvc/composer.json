@@ -1,0 +1,15 @@
+{
+    "name": "shobuj/auth_mvc",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dev-sajjad",
+            "email": "sajjadbmarpc@gmail.com"
+        }
+    ],
+    "require": {}
+}
